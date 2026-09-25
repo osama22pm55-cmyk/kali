@@ -1,2 +1,2 @@
 # kali
-my cypersecurity test environmwnt
+my cybersecurity test environmwnt
